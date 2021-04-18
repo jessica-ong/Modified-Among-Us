@@ -1,3 +1,5 @@
+**"main" is our code!**
+
 # Modified-Among-Us
 We recreated the classic game Flappy Bird into the Among Us Universe!
 
